@@ -1,3 +1,10 @@
+<html>
+
+<head></head>
+
+
+<body bgcolor="black">
+
 <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 <h1 align="center">Hi 👋, I'm Waasim Ansari</h1>
 <h3 align="center">Pursuing in Web Development</h3>
@@ -22,7 +29,7 @@
 
 - 📫 How to reach me **waasimansari92@gmail.com**
 
-- ⚡ Fun fact **I'm quite funny as well as i'm super enthusiastic**
+- ⚡ Fun fact **I'm so funny as well as i'm enthusiastic**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -40,3 +47,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waasimansari786&show_icons=true&locale=en" alt="waasimansari786" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waasimansari786&" alt="waasimansari786" /></p>
+
+
+</body>
+
+</html>
+
