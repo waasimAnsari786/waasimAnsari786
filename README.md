@@ -23,7 +23,7 @@
 
 - 🤝 I’m looking for help to **other Developers**
 
-- 👨‍💻 All of my projects are available at [https://waasimportfolio.netlify.app/](https://waasimportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at[ (https://waasimansari786.github.io/waasim-s-portfolio/)](https://waasimansari786.github.io/waasim-s-portfolio/)
 
 - 💬 Ask me about **Front-End**
 
