@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **waasimansari92@gmail.com**
 
-- 📄 Know about my experiences [file:///D:/waasim%20computer%20classes/smart%20web%20designing%20classes/react/waasim/public/waasim%20ansari%20resume.pdf](file:///D:/waasim%20computer%20classes/smart%20web%20designing%20classes/react/waasim/public/waasim%20ansari%20resume.pdf)
+- 📄 Know about my experiences [Waasim's CV](https://waasimcv.tiiny.site)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
