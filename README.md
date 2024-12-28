@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **waasimansari92@gmail.com**
 
-- 📄 Know about my experiences [by visiting my CV](https://waasimcv.tiiny.site)
+- 📄 Know about my experiences [by visiting my CV](https://waasim-resume.tiiny.site)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
